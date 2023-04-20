@@ -1,0 +1,4 @@
+아래 오류메세지가 발생하여 문제 해결
+Warning: Prop `style` did not match. Server: "display:inline-block;background-color:red;width:15px;height:15px;margin:2px;border-radius:100%;animation-fill-mode:both;animation:react-spinners-GridLoader-grid 0.6140239847719086s -0.18597601522809143s infinite ease" Client: "display:inline-block;background-color:red;width:15px;height:15px;margin:2px;border-radius:100%;animation-fill-mode:both;animation:react-spinners-GridLoader-grid 1.0431923264504426s 0.2431923264504427s infinite ease"
+
+오류 해결 블로그 보러가기 => https://sikk.tistory.com/232
