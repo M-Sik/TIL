@@ -1,0 +1,5 @@
+Next.js 13.3.1 버전으로 개인프로젝트를 진행하던 중 Google OAuth로그인시 문제가 발생하였다.
+run dev로 실행한 상태에서는 오류가 발생하지 않았는데 실제 환경과 비슷한 환경에서 테스트 해보기위해 
+build 후 start시켜 next/auth에 설정해둔 signIn 페이지에서 OAuth로그인을 하려고 하니까 아래와 같은 오류가 발생하였다.
+
+해결한 내용을 정리한 블로그 포스팅 링크 => https://sikk.tistory.com/233
